@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+img{
+    margin-right: 90%;
+    height: 30px;
+    width: 30px;
+}
+input{
+    height: 35px;
+    width: 25%;
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}

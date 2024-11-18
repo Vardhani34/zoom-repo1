@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+.img{
+    height: 30px;
+    width: 30px;
+    margin-right: 130%;
+}
+header{
+    display: fixed;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    text-align: center;
+}
+.i1{
+    justify-content: start;
+    height: 50px;
+    width: 35px;
+}
+i{
+    height: 50px;
+    width: 35px;
+}   
+.hc{
+    text-align: center;
+}
+.sl{
+    list-style: none;
+    padding: 0%;
+}
+
+img{
+    height: 30px;
+    width: 40px;
+}
+footer{
+    color: rgb(109, 105, 105);
+    text-align: center;
+}

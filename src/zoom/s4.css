@@ -1,0 +1,40 @@
+.body{
+    background-color: black;
+    color: rgb(173, 171, 171);
+    
+}
+header{
+    text-align: center;
+    color: white;
+}
+img{
+    height: 30px;
+    width: 30px;
+    padding-right: 90%;
+    margin-top: 0%;
+    display: inline-block;
+}
+.bt{
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(31, 26, 26);
+    color: white;
+    padding-top: 10px;
+}
+h4{
+    text-align: center;
+    
+}
+.inp{
+    text-align: center;
+    color: white;
+}
+.bt1{
+    background-color: blue;
+    color: white;
+}
+.p{
+    color: blue;
+    margin-right: 25%;
+}

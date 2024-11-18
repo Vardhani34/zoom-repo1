@@ -1,0 +1,21 @@
+.main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    background-color: crimson;
+    width: 15vw;
+    height: 4px;
+}
+
+.bt{
+    width: 150px;
+    height: 30px;
+    border: 2px solid crimson;
+    border-radius: 25px;
+    background-color: crimson;
+    color: black;
+}

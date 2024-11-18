@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+input{
+    height: 35px;
+    width: 35%;
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+    color: aliceblue;
+}
+.mb{
+    width: 30%;
+    height: 35px;
+    text-align: start;
+    color: white;
+}
+button{
+    background-color: rgb(39, 38, 38);
+    height: 50px;
+    width: 25%;
+    border-radius: 15px;
+    color: white;
+}
+p{
+    color: rgb(170, 167, 167);
+}
+img{
+    height: 30px;
+    width: 30px;
+    margin-right: 95%;
+}
